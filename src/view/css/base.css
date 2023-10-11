@@ -20,17 +20,19 @@ body {
     border-radius: 50%;
 }
 
-.card{
-    width: 220px!important;
+.card {
+    width: 220px !important;
 }
-.cards-org{
+
+.cards-org {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    
+
     margin-top: 2%;
 
 }
+
 .card-img-top {
     background-color: var(--cor01);
 }
