@@ -30,7 +30,6 @@ body {
     justify-content: space-evenly;
 
     margin-top: 2%;
-
 }
 
 .card-img-top {
@@ -43,4 +42,16 @@ body {
 
 .destaque {
     font-weight: bold;
+}
+.carousel {
+ 
+    margin-left: 22%;
+    margin-top: 20px;
+
+    width: 700px !important;
+    height: 700px !important;
+}
+.img1{
+    width: 250px;
+    height: 250px;
 }
